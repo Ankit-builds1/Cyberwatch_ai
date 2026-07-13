@@ -1,0 +1,16 @@
+name: cyberwatch-ai
+
+services:
+  cyberwatch:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: cyberwatch-ai:local
+    stdin_open: true
+    tty: true
+    volumes:
+      - cyberwatch_models:/app/models
+      - ./data:/data:ro
+
+volumes:
+  cyberwatch_models:

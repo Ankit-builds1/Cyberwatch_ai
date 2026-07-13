@@ -1,0 +1,19 @@
+# Trained models are distributed through the v3.0 GitHub Release.
+models/
+CyberWatch_All_Models_V3*.zip
+
+# Python environments and generated files.
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Editors and operating systems.
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+
+# Local runtime output.
+*.log

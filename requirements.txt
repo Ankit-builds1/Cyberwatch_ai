@@ -1,0 +1,8 @@
+# CyberWatch AI V3 — native CLI and Windows live-capture environment.
+xgboost==3.2.0
+scikit-learn==1.6.1
+torch==2.10.0
+transformers==5.0.0
+numpy==2.4.6
+pandas==2.3.3
+scapy>=2.6
