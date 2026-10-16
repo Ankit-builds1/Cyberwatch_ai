@@ -1,21 +1,24 @@
-MIT License
+Copyright (c) 2026 Ankit Dash (github.com/Ankit-builds1). All rights reserved.
 
-Copyright (c) 2026 Ankit Dash
+Project: Cyberwatch_ai
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This repository and all of its contents - source code, models, data
+pipelines, design and documentation - are the original work of Ankit Dash
+and are made publicly visible for PORTFOLIO AND EVALUATION PURPOSES ONLY.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+You MAY:
+  - view the code, and run it locally to evaluate it
+    (e.g. recruiters, reviewers, mentors).
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+You may NOT, without prior written permission from the author:
+  - copy, modify, merge, publish, distribute, sublicense or sell any part of it;
+  - submit it, or any derivative of it, as your own project, assignment,
+    internship deliverable, thesis or portfolio piece;
+  - re-host it or deploy it publicly.
+
+Third-party datasets, libraries, models and assets used by this project
+remain under their own licences.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+
+Permission requests: open an issue on this repository or contact the author via GitHub.
