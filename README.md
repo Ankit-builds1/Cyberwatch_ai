@@ -234,9 +234,7 @@ Cyberwatch_ai/
 - Live network alerts can contain false positives because capture-time features
   differ from the training distribution.
 
-## License
 
-Released under the [MIT License](LICENSE).
 
 ---
 
